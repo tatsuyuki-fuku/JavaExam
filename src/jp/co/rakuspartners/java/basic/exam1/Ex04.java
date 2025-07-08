@@ -1,8 +1,8 @@
 package jp.co.rakuspartners.java.basic.exam1;
 
-public class Ex01 {
+public class Ex04 {
     public static void main(String[] args) throws Exception {
-        System.out.println("Java");
+        //System.out.println("福嶋達之");
+        System.out.println("染谷悟");
     }
-
 }
