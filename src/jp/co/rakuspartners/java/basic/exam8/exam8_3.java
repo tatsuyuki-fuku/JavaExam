@@ -1,4 +1,4 @@
-package jp.co.rakuspartners.java.basic.exma8;
+package jp.co.rakuspartners.java.basic.exam8;
 
 public class exam8_3 {
     public static void main(String[] args) {
