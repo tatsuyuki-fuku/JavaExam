@@ -18,23 +18,12 @@ public class Ex19_2 {
             System.out.print(2*num[i]+" ");
         }
         System.out.println();
-        
-        //偶数の数をカウント
-        int count =0;
-        for(int i=0;i<num.length;i++){   
-            if(num[i]%2==0){
-            count++;}}
-
-        //配列作成    
-        int[] num2 =new int[count]; //偶数
-        int[] num3 =new int[10-count]; //奇数
 
         //偶数表示
         System.out.print("偶数：");
         for(int i=0;i<num.length;i++){   
             if(num[i]%2==0){
             System.out.print(num[i]+" ");
-            count++;
         }
         }
         //改行
