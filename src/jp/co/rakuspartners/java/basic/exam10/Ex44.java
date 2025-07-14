@@ -4,6 +4,8 @@ public class Ex44 {
 public static void main(String[] args) {
     printNames(3);
 }
+
+//メソッド 
 static void printNames(int count){
     for(int i =1;i<=count;i++){
         System.out.println("福嶋達之");

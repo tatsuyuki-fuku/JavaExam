@@ -7,6 +7,8 @@ public static void main(String[] args) {
     System .out.println(multi(5,3));
     System .out.println(div(5,3));
 }
+
+//以下からメソッド(返り値ありver　voidのところがデータ型になる)
 static int add (int num1,int num2){
     int sum = num1+num2;
     return sum;
